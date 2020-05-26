@@ -43,5 +43,3 @@ echo
 echo Mr./Mrs. $b, agora é hora de nos despedirmos, por enquanto.
 
 echo
-
-# Fim do Shell Script seu-primeiro-nome.sh
